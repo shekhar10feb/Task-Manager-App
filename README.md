@@ -4,6 +4,19 @@
 A simple, themeable task management application built with React and Tailwind CSS.  
 Users can register, manage tasks by category, and switch between light and dark themes.
 
+## Screenshot
+- **Picture 1**
+![Task Manager Page in Dark mode and also in desktop mode](images/1.png)
+
+- **Picture 2**
+![Task Manager Page in light mode and also in desktop mode](images/2.png)
+
+- **Picture 3**
+![Task Manager Page in light mode and also in mobile screen resolution showing reponsiveness](images/3.png)
+
+- **Picture 4**
+![Registration Page](images/4.png)
+
 ## Features
 - **User Registration:**  
   Users can register with a name and email to access the dashboard.
@@ -121,7 +134,7 @@ Add more features (e.g., delete tasks) by extending the logic.
 3. **Open in browser:**  
    Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
-### 5. **Set Up Auto-Deploy** (Optional but Recommended)
+### 5. **Set Up Auto-Deploy**
 Every time, you changes and commited, you push to GitHub:
 ```bash
 git add .

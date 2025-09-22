@@ -9,7 +9,7 @@ const AddTaskForm = ({ onAdd }) => {
   const { user, login, theme, toggleLogout } =
     useContext(UserContext);
 
-  const inputRef = useRef();
+  const inputRef = useRef(null);
 
   const handleSubmit = useCallback(
     (e) => {

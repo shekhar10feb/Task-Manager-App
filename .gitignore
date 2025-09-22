@@ -9,6 +9,9 @@ lerna-debug.log*
 
 node_modules
 tailwind-v4.1-react-vite-setup-guide.md
+react_hooks_project.md
+react_hooks_router.md
+react-hooks-guide.md
 dist
 dist-ssr
 *.local
