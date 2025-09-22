@@ -6,7 +6,7 @@ Users can register, manage tasks by category, and switch between light and dark 
 
 ## Screenshot
 - **Picture 1**
-![Task Manager Page in Dark mode and also in desktop mode](images/1.png)
+![Task Manager Page in Dark mode and also in desktop mode](./images/1.png)
 
 - **Picture 2**
 ![Task Manager Page in light mode and also in desktop mode](images/2.png)
