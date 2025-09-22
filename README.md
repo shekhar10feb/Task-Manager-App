@@ -5,16 +5,16 @@ A simple, themeable task management application built with React and Tailwind CS
 Users can register, manage tasks by category, and switch between light and dark themes.
 
 ## Screenshot
-- **Picture 1**
+- **Task Manager Page in Dark mode and also in desktop mode**
 ![Task Manager Page in Dark mode and also in desktop mode](./public/images/1.png)
 
-- **Picture 2**
+- **Task Manager Page in light mode and also in desktop mode**
 ![Task Manager Page in light mode and also in desktop mode](./public/images/2.png)
 
-- **Picture 3**
+- **Task Manager Page in light mode and also in mobile screen resolution showing reponsiveness**
 ![Task Manager Page in light mode and also in mobile screen resolution showing reponsiveness](./public/images/3.png)
 
-- **Picture 4**
+- **Registration Page**
 ![Registration Page](./public/images/4.png)
 
 ## Features
