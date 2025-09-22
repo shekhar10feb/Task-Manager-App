@@ -121,17 +121,22 @@ Add more features (e.g., delete tasks) by extending the logic.
 - Custom CSS classes are used to style options based on the theme.
 
 ## Usage
-1. **Install dependencies:**
+1. **Clone the App:**
+   ```
+   git clone https://github.com/shekhar10feb/Task-Manager-App.git
+   ```
+   
+2. **Install dependencies:**
    ```
    npm install
    ```
 
-2. **Run the app:**
+3. **Run the app:**
    ```
    npm run dev
    ```
 
-3. **Open in browser:**  
+4. **Open in browser:**  
    Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
 ### 5. **Set Up Auto-Deploy**
